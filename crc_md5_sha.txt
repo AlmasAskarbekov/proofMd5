@@ -1,0 +1,5 @@
+ Τΰιλ: proof_DblCb.7z
+CRC-32: 3b55e816
+   MD4: 9f4415e342b3ec977ed5119a27ad373e
+   MD5: 1be8e9230a981d8f3828954cb7130c1e
+ SHA-1: 9fa913d7b647ab98039fda707368a0ba9a72e9df
